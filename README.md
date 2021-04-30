@@ -1,7 +1,7 @@
 <html>
     <head>
         <title>Петя Бот!</title>
-      <link rel="stylesheet" href="css.css">
+      <link rel="stylesheet" href="css">
     </head>
     <body>
         <header>
